@@ -1,0 +1,43 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.elements-container {
+  background-color: white;
+  margin: 10%;
+  padding: 10px;
+  color: #0b69ff;
+  text-align: center;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+
+.random-number {
+  font-size: 40px;
+  color: #0b69ff;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+p {
+  font-size: 12px;
+  color: #333333;
+}
+
+button {
+  background-color: #0b69ff;
+  color: white;
+  outline: none;
+  border-radius: 10px;
+  height: 40px;
+  width: 140px;
+}
+
+button:hover {
+  font-size: 15px;
+  cursor: pointer;
+}
